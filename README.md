@@ -6,7 +6,7 @@
 [![Build Status](https://travis-ci.org/flamecoin/flamecoin.svg)](https://travis-ci.org/flamecoin/flamecoin)
 
 ## What is Flamecoin?
-Flamecoin is a cryptocurrency like Bitcoin, although it does not use SHA256 as its proof of work (POW). Taking development cues from Tenebrix and Flamecoin, Flamecoin currently employs a simplified variant of scrypt. (Currently forked from flamecoin)
+Flamecoin is a cryptocurrency like Bitcoin, although it does not use SHA256 as its proof of work (POW). Taking development cues from Tenebrix and litecoin, Flamecoin currently employs a simplified variant of scrypt. (Flame coin is forked from litecoin)
 
 ## Social Media:
 - **Reddit:** https://reddit.com/r/flamecoincrypto
@@ -39,7 +39,11 @@ There are a few types of branches in this repository:
 
  - Where can I download a working build?
  
- Under the releases page on github the latest binarys can be found. (The first working version will be released before the 1st of May)
+ Under the releases page on github the latest binarys can be found.
+ 
+ - ITS NOT WORKING!
+ 
+ If its broken, submit an issue. (https://github.com/flamecoin/flamecoin/issues)
  
 
 
