@@ -6,7 +6,7 @@
 [![Build Status](https://travis-ci.org/flamecoin/flamecoin.svg)](https://travis-ci.org/flamecoin/flamecoin)
 
 ## What is Flamecoin?
-Flamecoin is a cryptocurrency like Bitcoin, although it does not use SHA256 as its proof of work (POW). Taking development cues from Tenebrix and litecoin, Flamecoin currently employs a simplified variant of scrypt. (Flame coin is forked from litecoin)
+Flamecoin is a cryptocurrency like Bitcoin, although it does not use SHA256 as its proof of work (POW). Taking development cues from Tenebrix and litecoin, Flamecoin currently employs a simplified variant of scrypt. (Flamecoin is forked from litecoin)
 
 ## Social Media:
 - **Reddit:** https://reddit.com/r/flamecoincrypto
