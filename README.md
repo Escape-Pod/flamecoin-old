@@ -1,4 +1,4 @@
-# FlameCoin Core [FLA, ₣]
+# FlameCoin Core [FLA, ₣] [![Build Status](https://travis-ci.org/flamecoin/flamecoin.svg)](https://travis-ci.org/flamecoin/flamecoin)
 ==========================
 
 <a href="https://ibb.co/gPL977"><img src="https://preview.ibb.co/ipDkfS/105695_OMLJSE_613.png" alt="105695_OMLJSE_613" border="0"></a>
