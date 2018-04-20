@@ -5,7 +5,7 @@ Setup
 ---------------------
 Flamecoin Core is the original Flamecoin client and it builds the backbone of the network. It downloads and, by default, stores the entire history of Flamecoin transactions (which is currently more than 7 GBs); depending on the speed of your computer and network connection, the synchronization process can take anywhere from a few hours to a day or more.
 
-To download Flamecoin Core, visit [flamecoin.org](https://flamecoin.org).
+Downloads coming soon.
 
 Running
 ---------------------
