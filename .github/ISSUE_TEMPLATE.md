@@ -2,10 +2,6 @@
 
 This issue tracker is only for technical issues related to flamecoin-core.
 
-General flamecoin questions and/or support requests and are best directed to the [flamecointalk.io forums](https://flamecointalk.io/).
-
-For reporting security issues, please contact the Flamecoin developers on the #flamecoin-dev Freenode IRC channel or alternatively you can email us at contact@flamecoin.org.
-
 ### Describe the issue
 
 ### Can you reliably reproduce the issue?
