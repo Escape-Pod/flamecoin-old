@@ -1,4 +1,4 @@
-# FlameCoin Core [FLA, ₣]
+# FlameCoin Core [FLA, ₣] [![Build Status](https://travis-ci.org/flamecoin/flamecoin.svg)](https://travis-ci.org/flamecoin/flamecoin)
 ==========================
 
 <a href="https://ibb.co/gPL977"><img src="https://preview.ibb.co/ipDkfS/105695_OMLJSE_613.png" alt="105695_OMLJSE_613" border="0"></a>
@@ -21,7 +21,7 @@ Flamecoin is released under the terms of the MIT license. See [COPYING](COPYING)
 for more information or see http://opensource.org/licenses/MIT.
 
 ## Development and contributions
-Development is ongoing, and the development team, as well as other volunteers, can freely work in their own trees and submit pull requests when features or bug fixes are ready.
+Development is ongoing, and the development team, as well as other volunteers, can freely work in their own trees and submit pull requests when features or bug fixes are ready. We encourage anyone and everyone to give it a go!
 
 #### Version strategy
 Version numbers are following ```major.minor.patch``` semantics.
@@ -109,7 +109,9 @@ can be very difficult to track down. Compiling with -DDEBUG_LOCKORDER (configure
 CXXFLAGS="-DDEBUG_LOCKORDER -g") inserts run-time checks to keep track of which locks
 are held, and adds warnings to the debug.log file if inconsistencies are detected.
 
-**Thanks to:**
-
+Thanks to:
+---------------------------
 Paul DeCarlo (Github: toolboc) **For making the Tutorial
  to make an altcoin** http://hackster.io/pjdecarlo/how-to-make-a-cryptocurrency-using-litecoin-v0-15-source-fb5e82
+
+Freepik (logo) <a href="http://www.freepik.com">Designed by Freepik</a>
