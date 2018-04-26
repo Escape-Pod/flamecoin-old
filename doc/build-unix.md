@@ -75,7 +75,7 @@ install necessary parts of boost:
 
         sudo apt-get install libboost-system-dev libboost-filesystem-dev libboost-chrono-dev libboost-program-options-dev libboost-test-dev libboost-thread-dev
 
-2. If that doesn't work, you can install all boost development packages with:
+2. If that doesn't work, you can **install all boost development packages with:**
 
         sudo apt-get install libboost-all-dev
 
