@@ -49,7 +49,7 @@ There are a few types of branches in this repository:
 
   - [OSX Build Notes](doc/build-osx.md)
   - [Unix/Linux Build Notes](doc/build-unix.md)
-  - [Windows Build Notes](doc/build-msw.md)
+  - [Windows Build Notes](doc/build-windows.md)
 
 ### Ports
 9333 (Maybe 9342 soon)
